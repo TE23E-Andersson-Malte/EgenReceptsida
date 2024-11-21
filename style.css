@@ -46,7 +46,7 @@ h1 {
 #pasta {
     grid-column: 1/2;
     height: 55vh;
-    width: auto;
+    width: 101%;
 }
 
 #info {
